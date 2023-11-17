@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://webdev2023.com/" target="_blank">Ilya</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&repeat=true&random=false&width=435&lines=Front-End+developer+from+Moldova;" alt="Typing SVG" />
+  </a>
+</div>
+
+
 
 <!--
 **Waterfallllllll/Waterfallllllll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
