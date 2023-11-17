@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a style="color: #36bcf7" href="https://webdev2023.com/" target="_blank">Ilya</a> 
+<h1 align="center">Hi there, I'm <a style="color: red" href="https://webdev2023.com/" target="_blank">Ilya</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div align="center">
   <a href="https://git.io/typing-svg">
