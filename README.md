@@ -2,13 +2,10 @@
 
 ## GitHub Stats & Languages
 
-<div align="center" style="display: flex; gap: 10px; justify-content: center;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Waterfallllllll&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waterfallllllll&layout=compact&theme=radical" alt="Top Languages" height="200"/>
-
-</div>
+<p float="left" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Waterfallllllll&show_icons=true&theme=radical&hide_border=true" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waterfallllllll&layout=compact&theme=radical&hide_border=true" width="350" />
+</p>
 
 ---
 
