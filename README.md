@@ -1,12 +1,19 @@
-# 🌊 Waterfallllllll
+# Привет, я Waterfallllllll! 👋
 
-## 📊 GitHub Stats
+## GitHub Stats & Languages
 
-| GitHub Stats                                                                                                          | Most Used Languages                                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Waterfallllllll&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waterfallllllll&layout=compact&theme=radical) |
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Waterfallllllll&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waterfallllllll&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Waterfallllllll&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Waterfallllllll&color=blue)  
 ![Followers](https://img.shields.io/github/followers/Waterfallllllll?style=social)
