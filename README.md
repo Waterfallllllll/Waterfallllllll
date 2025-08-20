@@ -6,7 +6,7 @@
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waterfallllllll&layout=compact&hide_border=true&theme=transparent"
-    width="350"
+    width="470"
     height="200"
   />
 </p>
