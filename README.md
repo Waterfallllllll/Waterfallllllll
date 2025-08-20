@@ -2,7 +2,7 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=Waterfallllllll&show_icons=true&hide_border=true&theme=transparent"
     width="500"
-    height="300"
+    height="200"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waterfallllllll&layout=compact&hide_border=true&theme=transparent"
