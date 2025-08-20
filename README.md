@@ -2,10 +2,10 @@
 
 ## GitHub Stats & Languages
 
-<p float="left" align="center">
+<div style="display: flex; align-items: flex-start; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Waterfallllllll&show_icons=true&theme=radical&hide_border=true" width="350" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waterfallllllll&layout=compact&theme=radical&hide_border=true" width="350" />
-</p>
+</div>
 
 ---
 
