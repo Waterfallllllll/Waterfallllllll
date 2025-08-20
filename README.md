@@ -1,7 +1,3 @@
-# Привет, я Waterfallllllll! 👋
-
-## GitHub Stats & Languages
-
 <div style="display: flex; align-items: flex-start; gap: 20px; justify-content: center; flex-wrap: wrap;">
   <!-- GitHub Stats -->
   <img 
@@ -17,8 +13,3 @@
   />
 
 </div>
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Waterfallllllll&color=blue)  
-![Followers](https://img.shields.io/github/followers/Waterfallllllll?style=social)
