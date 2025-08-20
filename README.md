@@ -1,12 +1,17 @@
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
+  <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Waterfallllllll&show_icons=true&hide_border=true&theme=default&bg_color=255, 255, 255" 
+    src="https://github-readme-stats.vercel.app/api?username=Waterfallllllll&show_icons=true&hide_border=true&theme=default&bg_color=F6F8FA" 
     width="400" 
-    height="200" 
+    height="180" 
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waterfallllllll&layout=compact&hide_border=true&theme=default&bg_color=255, 255, 255" 
+
+  <!-- Top Languages -->
+
+<img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waterfallllllll&layout=compact&hide_border=true&theme=default&bg_color=F6F8FA" 
     width="400" 
-    height="200" 
+    height="180" 
   />
+
 </div>
