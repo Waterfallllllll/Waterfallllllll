@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Waterfallllllll&show_icons=true&hide_border=true&theme=transparent"
-    width="500"
+    width="480"
     height="200"
   />
   <img
