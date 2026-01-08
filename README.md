@@ -2,7 +2,7 @@
   <tr>
     <td style="border: 0; padding: 0;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Waterfallllllll" />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Waterfallllllll" />
+      <img style="margin-left: 134px;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Waterfallllllll" />
     </td>
   </tr>
 </table>
