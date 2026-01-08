@@ -52,7 +52,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 <div align="left">
   
-  [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Waterfallllllll&theme=tokyonight)](https://github.com/pranesh-2005/github-readme-stats-fast)
+  [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Waterfallllllll&theme=tokyonight&hide_border=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
   
 </div>
 
