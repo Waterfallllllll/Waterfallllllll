@@ -3,7 +3,8 @@
     <td style="border: 0; padding: 0; display: flex; gap: 20px;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Waterfallllllll" />
     </td>
-    <td style="border: none; padding: 0 0 0 134px;">
+    <td style="border: 0; padding: 0; width: 134px;"></td>
+    <td style="border: none; padding: 0;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Waterfallllllll" />
     </td>
   </tr>
