@@ -1,18 +1,10 @@
 <table style="border-collapse: collapse; border: 0; margin: 0 auto;">
   <tr>
     <td style="border: 0; padding: 0;">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Waterfallllllll&show_icons=true&hide_border=true&theme=transparent"
-        width="470"
-        height="200"
-      />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Waterfallllllll" />
     </td>
     <td style="border: 0; padding: 0;">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waterfallllllll&layout=compact&hide_border=true&theme=transparent&hide_title=true"
-        width="470"
-        height="200"
-      />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Waterfallllllll" />
     </td>
   </tr>
 </table>
