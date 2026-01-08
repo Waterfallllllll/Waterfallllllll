@@ -47,7 +47,13 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   
   ### :fire: My Stats :
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Waterfallllllll&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waterfallllllll&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=Waterfallllllll&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </div>
+
+<div align="left">
+  
+  [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Waterfallllllll&theme=tokyonight)](https://github.com/pranesh-2005/github-readme-stats-fast)
+  
+</div>
+
 
